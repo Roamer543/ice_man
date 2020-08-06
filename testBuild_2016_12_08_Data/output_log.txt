@@ -1,0 +1,46 @@
+Initialize engine version: 5.4.2f2 (b7e030c65c9b)
+GfxDevice: creating device client; threaded=1
+VR: OpenVR Error! OpenVR failed initialization with error code VRInitError_Init_InstallationNotFound: "Installation Not Found (100)"!
+ 
+(Filename:  Line: 777)
+
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 5800 Series (ID=0x6899)
+    Vendor:   ATI
+    VRAM:     1010 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: G:\Program Files\Unity\Projects\Eismann\testBuild_2016_12_08_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading G:\Program Files\Unity\Projects\Eismann\testBuild_2016_12_08_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: G:\Program Files\Unity\Projects\Eismann\testBuild_2016_12_08_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading G:\Program Files\Unity\Projects\Eismann\testBuild_2016_12_08_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: G:\Program Files\Unity\Projects\Eismann\testBuild_2016_12_08_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading G:\Program Files\Unity\Projects\Eismann\testBuild_2016_12_08_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: G:\Program Files\Unity\Projects\Eismann\testBuild_2016_12_08_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading G:\Program Files\Unity\Projects\Eismann\testBuild_2016_12_08_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.268 seconds
+Platform assembly: G:\Program Files\Unity\Projects\Eismann\testBuild_2016_12_08_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: G:\Program Files\Unity\Projects\Eismann\testBuild_2016_12_08_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 3600x1080 at 0,0
+<RI> Initialized touch support.
+VR: OpenVR Error! OpenVR failed initialization with error code VRInitError_Init_InstallationNotFound: "Installation Not Found (100)"!
+ 
+(Filename:  Line: 777)
+
+VR: OpenVR Error! OpenVR failed initialization with error code VRInitError_Init_InstallationNotFound: "Installation Not Found (100)"!
+ 
+(Filename:  Line: 777)
+
+UnloadTime: 1.600133 ms
+[NewtonVR] Version : 0.95. 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+[NewtonVR] Critical Error: Oculus / SteamVR not setup properly or no headset found.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2e90 -> priority: 1 
